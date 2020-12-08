@@ -1,2 +1,2 @@
-# MinhaAnimacao
-Atividade Nota 2 - Marcus Vinicius Reis Gonçalves
+# Animação
+Atividade Nota 2 - Leonardo dos Santos Pereira
