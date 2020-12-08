@@ -1,2 +1,2 @@
 # Animação
-Atividade Nota 2 - Leonardo dos Santos Pereira
+Atividade Nota - Leonardo dos Santos Pereira
